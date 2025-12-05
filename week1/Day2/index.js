@@ -1,1 +1,1 @@
-console/console.log(week1 day2);
+console/console.log(week1 );
